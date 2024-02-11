@@ -36,4 +36,5 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 ![image](https://github.com/alexis4441/python-challenge/assets/156952462/99a3c049-ea15-4710-b15d-9d44bfd1df01)
+
 In addition, your final script should both print the analysis to the terminal and export a text file with the results.
